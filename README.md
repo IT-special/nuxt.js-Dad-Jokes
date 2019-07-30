@@ -1,8 +1,10 @@
-# dadjokes
-
-> Lists bad dad jokes
+## API link
+# https://icanhazdadjoke.com/api
 
 ## Build Setup
+
+# install dependencies
+$ npm run install
 
 ``` bash
 # install dependencies
